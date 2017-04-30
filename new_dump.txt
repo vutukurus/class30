@@ -1,0 +1,31 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 28C4-ADB5
+
+ Directory of C:\Users\siv\Desktop
+
+04/30/2017  06:54 PM    <DIR>          .
+04/30/2017  06:54 PM    <DIR>          ..
+04/22/2017  09:38 AM    <DIR>          1
+04/30/2017  06:56 PM    <DIR>          auto
+08/19/2016  07:58 PM    <DIR>          automation
+04/30/2017  09:19 AM    <DIR>          class_class
+04/22/2017  08:42 AM               161 demo_1.py
+04/22/2017  09:36 AM    <DIR>          demo_4
+04/30/2017  06:28 PM    <DIR>          doc
+04/30/2017  11:30 AM    <DIR>          Docs
+04/30/2017  09:58 AM    <DIR>          extensions
+04/25/2017  07:25 PM    <DIR>          file_handling
+04/25/2017  06:59 PM    <DIR>          first_class
+04/22/2017  10:53 AM    <DIR>          functions_os_sys_shutl
+04/30/2017  07:05 PM               460 jj.py
+04/26/2017  11:24 AM                11 lg
+04/30/2017  09:31 AM    <DIR>          New folder
+04/22/2017  09:37 AM    <DIR>          pyton
+04/22/2017  09:50 AM    <DIR>          st
+07/17/2016  04:49 PM    <DIR>          svn_test
+09/11/2016  10:28 AM    <DIR>          tasks
+04/30/2017  09:29 AM    <DIR>          tt
+09/19/2016  10:08 PM    <DIR>          ttt
+03/06/2017  10:03 PM    <DIR>          webscrapping_selenium
+               3 File(s)            632 bytes
+              21 Dir(s)  34,881,220,608 bytes free
