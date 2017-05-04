@@ -7,7 +7,7 @@ def prime_generator(input_list):
 	for i in input_list:
 		if isinstance(i,str):
 			return "donotpassstring"
-		if i % 2 == 0:
+		if i % 2 != 0:
 			new_list.append(i)
 	return new_list
 	
