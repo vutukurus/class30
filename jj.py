@@ -1,27 +1,16 @@
 import os
 import subprocess
-#This a cang
 
-#subprocess..
-print "=======================\n"
-a= subprocess.call("dir",shell=True)
-print a
+def prime_generator(input_list):
 
-#subprocess with status code..
-a= subprocess.check_call(["dir"],shell=True)
-if a != 0:
-	print "Command did not executed sucesfult"
-else:
-	print "scuess"
+	new_list=[]  # Used to hold prime numbers
+	for i in input_list:
+		if isinstance(i,str):
+			return "donotpassstring"
+		if i % 2 == 0:
+			new_list.append(i)
+	return new_list
 	
-#subprocess with output capture
-b = subprocess.check_output("dir",shell=True)
-print b
-
-
-f= open("dump.txt","w")
-f.write(b)
-f.close()
 
 
 
